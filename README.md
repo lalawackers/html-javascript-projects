@@ -1,1 +1,1 @@
-Snake-game in javascript
+Snake-game in html (didnt use javascript)
